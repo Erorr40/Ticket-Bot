@@ -1,0 +1,9 @@
+{
+    "bot_token": "YOUR_BOT_TOKEN",
+    "guild_id": "YOUR_GUILD_ID",
+    "moderator_role_id": null,
+    "ticket_prefix": "ticket-",
+    "active_categories": {
+
+    }
+}
